@@ -9,3 +9,5 @@ dotnet run
 ```
 ## Kontakt
 Autor: s37635
+Zespół: Brak
+
