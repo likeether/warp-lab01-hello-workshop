@@ -1,0 +1,1 @@
+Użyłem Visual Studio Code. Ustawiłem breakpoint na Console.WriteLine, uruchomiłem program w trybie debugowania, sprawdziłem zatrzymanie wykonania, a następnie wznowiłem program.
